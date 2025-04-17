@@ -7,14 +7,6 @@
 
 `CapeExample` is a resource pack for Minecraft: Pocket Edition (Bedrock Edition on mobile devices). This pack aims to [clearly and concisely describe what the resource pack changes or adds to the game. Examples: "improve the visual appearance of capes," "add new and unique cape designs," "provide a base for custom cape creation," etc.].
 
-## Key Features
-
-* **[Feature 1]:** [Describe a specific change or addition the pack makes related to capes. Be specific. E.g., "Introduces 5 new high-resolution cape designs."]
-* **[Feature 2]:** [Describe another key feature. E.g., "Replaces the default cape texture with a more detailed version."]
-* **[Feature 3]:** [Describe another feature. E.g., "Provides a template texture for users to create their own custom capes."]
-* **[If applicable] Custom Assets:** [Mention any other custom assets included, e.g., "Includes a custom `pack_icon.png`."]
-* **Optimized for Mobile:** Designed to run smoothly on Minecraft: Pocket Edition without significant performance impact.
-
 ## Installation
 
 To install and use the `CapeExample` resource pack in Minecraft: Pocket Edition, follow these steps:
