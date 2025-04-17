@@ -65,5 +65,3 @@ Please ensure any contributions are compatible with Minecraft: Pocket Edition an
 This project is licensed under the [MIT License](https://github.com/noah-ah23/cape-example/blob/main/LICENSE) - see the [LICENSE](https://github.com/noah-ah23/cape-example/blob/main/LICENSE) file for details.
 
 -----
-
-Providing this information will allow me to create a more accurate and engaging README for your Minecraft: Pocket Edition resource pack.
