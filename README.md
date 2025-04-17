@@ -40,13 +40,11 @@ Once the `CapeExample` resource pack is activated, any capes in the game should 
 * **New Cape Textures:** Players with capes might see the new designs you've added.
 * **Modified Default Cape:** The default cape appearance might be altered.
 
-[**Add specific instructions here if your pack requires any specific actions from the user to see the changes or utilize its features. For example, if you've added custom items with cape textures, explain how to obtain them (if applicable via commands in a test environment).**]
-
 ## Content of the Pack
 
 The repository structure (as seen) likely contains:
 
-* `textures/cape/`: This directory should contain the image files for your custom cape textures (e.g., `.png` files).
+* `textures/models/armor/elytra.png`: This directory should contain the image files for your custom cape textures (e.g., `.png` files).
 * `manifest.json`: This crucial file defines the resource pack for Minecraft, including its name, version, and UUID.
 * `pack_icon.png` (optional): This is the icon that will represent your resource pack in the Minecraft settings.
 * `LICENSE`: Contains the licensing information for your pack.
@@ -66,18 +64,6 @@ Please ensure any contributions are compatible with Minecraft: Pocket Edition an
 
 This project is licensed under the [MIT License](https://github.com/noah-ah23/cape-example/blob/main/LICENSE) - see the [LICENSE](https://github.com/noah-ah23/cape-example/blob/main/LICENSE) file for details.
 
-## Acknowledgments
-
-* [Mention any tools or resources you used in creating this resource pack.]
-* [If you were inspired by other packs or creators, you can give them credit here.]
-
 -----
-
-**To make this README even better, please tell me more about:**
-
-1.  **What specific changes does your resource pack make to capes in Minecraft: Pocket Edition?** (e.g., new designs, higher resolution, animated textures - if applicable, etc.)
-2.  **Are there any specific requirements or dependencies for your pack?** (e.g., a specific Minecraft version, although the badge suggests the latest)
-3.  **Do you have any visual examples (screenshots or GIFs) of the capes in your pack that you could potentially include in the README (perhaps as links to an external image hosting service)?** This can greatly enhance the appeal of your pack.
-4.  **Are you planning to release this as a `.mcpack` file for easier installation?**
 
 Providing this information will allow me to create a more accurate and engaging README for your Minecraft: Pocket Edition resource pack.
