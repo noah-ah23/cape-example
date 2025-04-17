@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "name": "Pack name here",
-        "description": "This is an example pack on how to render custom capes with elytra support",
+        "description": "This is an example pack on how to render custom capes with elytra support - Made by MiniMine Productions",
         "uuid": "2f695915-4c9a-4805-a6c2-633c7d24dd3f",
         "version": [ 0, 10, 0 ],
         "min_engine_version": [ 1, 16, 0 ]
